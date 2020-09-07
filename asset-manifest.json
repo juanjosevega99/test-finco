@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-finco/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/test-finco/static/js/main.37daff76.chunk.js",
+    "main.js.map": "/test-finco/static/js/main.37daff76.chunk.js.map",
+    "runtime-main.js": "/test-finco/static/js/runtime-main.47a246aa.js",
+    "runtime-main.js.map": "/test-finco/static/js/runtime-main.47a246aa.js.map",
+    "static/js/2.5cfdfd4e.chunk.js": "/test-finco/static/js/2.5cfdfd4e.chunk.js",
+    "static/js/2.5cfdfd4e.chunk.js.map": "/test-finco/static/js/2.5cfdfd4e.chunk.js.map",
+    "index.html": "/test-finco/index.html",
+    "precache-manifest.6c3bea91c082bc81e857df88b5e18ba8.js": "/test-finco/precache-manifest.6c3bea91c082bc81e857df88b5e18ba8.js",
+    "service-worker.js": "/test-finco/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/test-finco/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5cfdfd4e.chunk.js.LICENSE.txt": "/test-finco/static/js/2.5cfdfd4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47a246aa.js",
+    "static/js/2.5cfdfd4e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.37daff76.chunk.js"
+  ]
+}
